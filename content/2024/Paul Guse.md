@@ -5,15 +5,15 @@ tags:
   - rust
 ---
 
-# Summary
+## Summary
 
 Rust - ICS4U
 
-# Description
+## Description
 
 This is an introduction to the Rust programming language including notes, exercises, and some assessments.
 
-# Files
+## Files
 
 *   [AssignmentStructs.docx](resources/Paul_Guse/AssignmentStructs.docx)
 *   [InClassAssignment.docx](resources/Paul_Guse/InClassAssignment.docx)

@@ -5,15 +5,15 @@ tags:
   - ICS4U
 ---
 
-# Summary
+## Summary
 
 ICS4U Artificial Intelligence
 
-# Description
+## Description
 
 The use of Artificial Intelligence has grown significantly over the past few years, but I wanted my students to gain an appreciation of the fact that the products of AI, amazing as some of them might be, are still the result of a computer algorithm. If the results of the algorithm mimic intelligence, that is only because of the humans responsible for designing, implementing, and training it. To that end, in ICS 4U1, we undertook to write a simple program that will LEARN to play Tic-tac-toe. The algorithm is not supplied with any foreknowledge of the game and becomes an intelligent" player through experience alone. Included is Java source code for our implementation of this reinforcement learning based AI
 
-# Files
+## Files
 
 *   [1\_Introduction.pdf](resources/Mark_Bouwmeester/1_Introduction.pdf)
 *   [2\_Planning\_TicTacToe.pdf](resources/Mark_Bouwmeester/2_Planning_TicTacToe.pdf)

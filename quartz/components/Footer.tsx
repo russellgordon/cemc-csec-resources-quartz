@@ -17,6 +17,13 @@ export default ((opts?: Options) => {
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
+        <p style="margin-top: -16px !important">
+          All content provided under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> license.
+        </p>
+        <p style="margin-top: -16px !important">
+        Join the <a href="https://acse.net/mail-list/">ACSE Mailing List</a>.
+        </p>
+        <p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
@@ -24,6 +31,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        </p>
       </footer>
     )
   }

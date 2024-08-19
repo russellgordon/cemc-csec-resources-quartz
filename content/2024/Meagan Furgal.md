@@ -4,17 +4,17 @@ tags:
   - ICS4U
 ---
 
-# Summary
+## Summary
 
 ICS4U - tree data structures
 
-# Description
+## Description
 
 This lesson package for ICS4U provides a lesson plan for teaching tree data structures and the following supplementary materials:
 
 <ul><li>Diagnostic assessment exit ticket</li><li>Lesson plan for live coding and collaborative problem solving</li><li>1-page information sheet</li><li>Assignment and solutions</li><li>Quiz and solutions</li></ul>
 
-# Files
+## Files
 
 *   [10\_-\_Trees\_Quiz.pdf](resources/Meagan_Furgal/10_-_Trees_Quiz.pdf)
 *   [11\_-Trees\_Quiz\_-\_Solutions.pdf](resources/Meagan_Furgal/11_-Trees_Quiz_-_Solutions.pdf)

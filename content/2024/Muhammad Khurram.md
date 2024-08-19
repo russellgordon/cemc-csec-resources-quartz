@@ -5,14 +5,14 @@ tags:
   - abstraction
 ---
 
-# Summary
+## Summary
 
 Objects in JavaScript
 
-# Description
+## Description
 
 PowerPoint
 
-# Files
+## Files
 
 *   [JavaScript\_Objects.pptx](resources/Muhammad_Khurram/JavaScript_Objects.pptx)

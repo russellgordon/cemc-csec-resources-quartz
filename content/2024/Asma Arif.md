@@ -6,15 +6,15 @@ tags:
   - game
 ---
 
-# Summary
+## Summary
 
 ICS3U Culminating Project
 
-# Description
+## Description
 
 Create a text-based computer game.
 
-# Files
+## Files
 
 *   [\_ICS3UculmProjectOutline-June\_2024.docx](resources/Asma_Arif/_ICS3UculmProjectOutline-June_2024.docx)
 

@@ -7,14 +7,14 @@ tags:
   - ICS4U
 ---
 
-# Summary
+## Summary
 
 Teaching: Java or Python
 
-# Description
+## Description
 
 This resource is a presentation that I have used in my ICS3U or ICS4U courses. I have titled it Teaching: Java or Python" or could also be called "A comparison of Java and Python" as I have used it to highlight some of the differences between Java and Python. It could also be used as "An overview of Java"."
 
-# Files
+## Files
 
 *   [Learning\_Java.pptx](resources/Ram_Etwaroo/Learning_Java.pptx)

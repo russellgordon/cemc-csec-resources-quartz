@@ -7,15 +7,15 @@ tags:
   - scratch
 ---
 
-# Summary
+## Summary
 
 Scratch Rocket Animation Assignment
 
-# Description
+## Description
 
 This could be used in TEJ3M or TEJ20 and TAS10.
 
-# Files
+## Files
 
 *   [Group1-R.sb3](resources/Esteban_Delossa/Group1-R.sb3)
 *   [Group4-R.sb3](resources/Esteban_Delossa/Group4-R.sb3)

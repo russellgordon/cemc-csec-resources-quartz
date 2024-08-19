@@ -9,15 +9,15 @@ tags:
   - ICS4C
 ---
 
-# Summary
+## Summary
 
 Arduino and C++ unit.
 
-# Description
+## Description
 
 I am sharing my unit on Arduino and C++. There are 8 lessons (Power Point lessons), a final project and rubric. This is a unit introducing the structure of code in C++ using the Arduino IDE and it's micro-processor. Everything from basic circuits, variables, arrays, loops and sensors are presented. There is a series of mini formative tasks throughout the unit with a culminating task at the end. This unit is suited for the ICS 3C, 3U, 4C or 4U courses. The resource is in french.
 
-# Files
+## Files
 
 *   [Projet\_Arduino\_C.docx](resources/Monique_Dubytz/Projet_Arduino_C.docx)
 *   [grille\_arduino.docx](resources/Monique_Dubytz/grille_arduino.docx)
