@@ -1,0 +1,7 @@
+Last year, my ICS3C and ICS4C courses were combined and connected to an Introduction to Python Programming dual credit course at Durham College.    Overall, it was a good experience because the college teacher and I got along.   We agreed that object-oriented programming in Python was a critical skill and he did a nice job of finding an entertaining way to explore important data structures; tuples, lists and dictionaries.   Assignment 2 involves procedural abstraction, reuse of code and data structures.   We want to connect some of these programming ideas to Big Data and robotics in the future.
+
+My resource features the two major culminating task assignments (1 and 2) that were completed by the students in the dual credit course and laid the foundation for topics that would be covered in the final exam.
+
+I have included 2 student coding responses to the Assignment 2 challenge to give some idea of the student's response to the college-level programming task.  This spring, I enrolled in an ethical hacking course at Durham College and I've included the pen testing lab (Lab #5) that we had to complete which showcases how cybersecurity can be taught using Virtual Box.
+
+Kiley McDaniel

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	<link rel="stylesheet" href="lessons.css">
+	<style>
+		tt {
+			font-size: 14pt;
+			font-family: "Courier New", "monospace";
+		}
+	</style>
+</head>
+<body>
+<h2><strong>Lesson 6- Input and Output: Working With Math Formulas</strong></h2>
+<h3>Learning Goals:</h3>
+<ul>
+  <li> To know about some of the more common math formulas provided by Java</li>
+  <li>To know about some math constants in Java</li>
+  <li>To be able to translate a formula from math into a formula in Java code</li>
+  <li>&nbsp;To introduce the student to the concept of input.&nbsp;&nbsp;</li>
+</ul>
+<h3>The math library</h3>
+<p>In this lesson, you will be making use of the math library. In the first line of code you need an <tt>import</tt> statement, namely: <tt>import java.lang.Math</tt></p>
+<p>There are a number of math functions that are part of the math library. A few key functions are:&nbsp;&nbsp;</p>
+<table width="80%" border="1" align="center">
+  <tbody>
+    <tr>
+      <th scope="col">&nbsp;Function Name</th>
+      <th scope="col">&nbsp;Purpose /notes&nbsp;</th>
+    </tr>
+    <tr>
+      <td>math.pow(p, q)&nbsp;&nbsp;</td>
+      <td>Returns p<sup>q</sup> (floating point)</td>
+    </tr>
+    <tr>
+      <td>math.trunc(p)</td>
+      <td>Where p is floating point, it returns the integer part (decimal is discarded)</td>
+    </tr>
+    <tr>
+      <td>math.floor(p)</td>
+      <td>Where p is floating point, it rounds to the next lowest integer</td>
+    </tr>
+    <tr>
+      <td>math.ceil(p)</td>
+      <td>Where p is floating point,it rounds to the next higher integer</td>
+    </tr>
+    <tr>
+      <td>math.sqrt(p)</td>
+      <td>Returns the square root of p (floating point)</td>
+    </tr>
+  </tbody>
+</table>
+
+	<p>What follows are some useful stored constants in Python. Use them in place of numbers. Constants do not make use of brackets and are treated like variables.</p>
+	
+<table width="70%" border="1" align="center">
+  <tbody>
+    <tr>
+      <th scope="col">Constant</th>
+      <th scope="col">Value</th>
+    </tr>
+    <tr>
+      <td>math.PI</td>
+      <td>3.141592653589793 (the value of π)</td>
+    </tr>
+    <tr>
+      <td>math.e</td>
+      <td>2.718281828459045 (the value of Euler's constant)</td>
+    </tr>
+    <tr>
+      <td>math.inf</td>
+      <td>Positive infinity, ∞</td>
+    </tr>
+  </tbody>
+</table>
+
+	
+<h3>What to do:</h3>
+<ol>
+  <li> <b>Predict.</b> Look at the code below in the green box. In your reflection, predict what output you would expect from the statement.
+    <div class="code"> 
+		import java.lang.Math;<br>
+		import java.util.Scanner; # import commands always go at the top<br><br>
+		Scanner sc = new Scanner(System.in); # how input functions are declared<br>
+		System.out.print("Please input a length: ");<br>
+		int length = sc.nextInt(); # scans for an integer and assigns it<br>
+		double area = pow(length, 2)<br>
+    	System.out.println("The area of a square of side length", length, "is:", area);
+	</div>
+  </li>
+  <li> <b>Run.</b> Run the code in NetBeans, to check your response. </li>
+  <li> <b>Inspect.</b> State the behaviour of this code. When it stopped execution, why did it stop? What did you input? Did the output match what you did on your calculator?&nbsp; </li>
+  <li> <b>Modify/Make.</b> This time, compute the area of a square with a semicircle on one side, in the shape of a Norman Window. The area of the semicircle is 0.5*πr<sup>2</sup>; while the area of the square can be (2r)<sup>2</sup>=4r<sup>2</sup>. The total area is the sum of these:&nbsp;0.5*πr<sup>2</sup> + 4r<sup>2</sup>. In your reflection, state the reason why r has to be multiplied by 2 in part of the formula. In the diagram below, x = y.</li>
+</ol>
+	<center><img src="norman_window.jpg" width="200" height="260" /></center>
+<h2>Sample session:</h2>
+	<div class="code">
+	Area of a Norman Window shape<br />
+	Input the circle's radius: 5<br />
+	Area is: 139.26990816987242
+</div>
+<!-- trinket -->
+<p><iframe src="https://trinket.io/embed/python3/6cf72da772?outputOnly=true&amp;runOption=console&amp;start=result&amp;showInstructions=true" width="100%" height="156" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"></iframe></p>
+<!-- trinket -->
+<p></p>
+</body></html>
